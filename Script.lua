@@ -27,7 +27,7 @@ local CONFIG = {
 
 --// Create GUI
 local sg = Instance.new("ScreenGui")
-sg.Name = "PornAP_Premium"
+sg.Name = "KiaAp_Premium"
 sg.ResetOnSpawn = false
 sg.IgnoreGuiInset = true
 sg.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -85,7 +85,7 @@ title.Size = UDim2.new(0.7,0,1,0)
 title.Position = UDim2.new(0,16,0,0)
 title.BackgroundTransparency = 1
 title.Font = Enum.Font.GothamBlack
-title.Text = "PORN • AP"
+title.Text = "KIA • AP"
 title.TextColor3 = CONFIG.Theme.Text
 title.TextSize = 18
 title.TextXAlignment = Enum.TextXAlignment.Left
